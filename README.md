@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio-vikash7077pfy.vercel.app/](https://portfolio-vikash7077pfy.vercel.app/)
 
-- 📫 How to reach me **Vikashs7077@gmai.com**
+- 📫 How to reach me **Vikashs7077@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
